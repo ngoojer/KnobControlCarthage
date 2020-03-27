@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "63d2bb0cdb0d8815bf7178fc745de0bf24570114",
+  "iOS" : [
+    {
+      "name" : "KnobControl",
+      "hash" : "3c34d40df34cf1c5957d1af3fae5c9312dfcdecee63e40411165f0cfa6e57221",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ]
+}
